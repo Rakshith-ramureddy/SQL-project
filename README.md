@@ -1,6 +1,4 @@
-# SQL-project
-
-### Project Summary: Orders Dataset Analysis
+# SQL-project: Orders Dataset Analysis
 
 This project involves managing and analyzing an orders dataset using SQL. The operations include data insertion, updating records, creating indexes for optimization, and executing queries to extract valuable insights. Below is an overview of the key components and objectives of the project.
 
